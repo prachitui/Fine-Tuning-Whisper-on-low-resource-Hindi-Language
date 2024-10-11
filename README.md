@@ -63,5 +63,8 @@ The WER score is computed and printed to the console.
   ```bash
   python Finetuned_Whisper_Evaluation.py
   ```
-## Acknowledgements
-The code is based on common voice [dataset](https://huggingface.co/datasets/mozilla-foundation/common_voice_11_0) and hugging face whisper examples [here](https://huggingface.co/openai/whisper-small).
+
+## Result
+
+We achieve a WER of 33.4% which is good enough since we had ibly 8 hours od training data available.
+
