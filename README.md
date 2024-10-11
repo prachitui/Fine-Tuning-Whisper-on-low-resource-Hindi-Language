@@ -1,4 +1,4 @@
-# Whisper Fine-Tuning and Evaluation on Hindi Subset of Common Voice Dataset
+# Whisper Fine-Tuning and Evaluation on Low Resource Hindi Language which is a Subset of Common Voice Dataset
 This repository demonstrates how to fine-tune and evaluate OpenAI's Whisper model on the Hindi subset of the Common Voice dataset using Hugging Face's transformers 
 library.
 
