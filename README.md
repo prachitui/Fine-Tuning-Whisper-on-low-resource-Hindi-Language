@@ -66,5 +66,5 @@ The WER score is computed and printed to the console.
 
 ## Result
 
-We achieve a WER of 33.4% which is good enough since we had ibly 8 hours od training data available.
+We achieve a WER of 33.4% which is good enough since we had only 8 hours of training data available.
 
